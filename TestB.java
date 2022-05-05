@@ -5,7 +5,7 @@ public class TestB
 		test.methodA();
 	}
 	
-    void methodA() {
+    public void methodA() {
         System.out.println( "Hello Remote World!" );
     }
 }
